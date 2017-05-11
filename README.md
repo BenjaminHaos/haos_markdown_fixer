@@ -1,4 +1,4 @@
-# haos_markdown_fixer
+# Haos Markdown Fixer
 
 An attempt at solving a problem...
 
